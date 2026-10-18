@@ -1,0 +1,21 @@
+# House Price Prediction using Linear Regression
+
+## Description
+A simple Machine Learning project that predicts housing prices using the Linear Regression algorithm based on features such as median income, house age, average rooms, population, and location.
+
+## Dataset
+California Housing Dataset from Scikit-learn.
+
+## Algorithm
+Linear Regression.
+
+## Evaluation Metrics
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+## Technologies
+Python, Pandas, NumPy, Scikit-learn, Google Colab.
+
+## Objective
+To train a Linear Regression model, predict housing values, evaluate its performance, and understand how different features affect predictions.
